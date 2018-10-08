@@ -1,0 +1,6 @@
+devel_space: /home/ali/ROS/first_ros_WS/devel
+install: false
+install_space: /home/ali/ROS/first_ros_WS/install
+profile: default
+source_space: /home/ali/ROS/first_ros_WS/src
+workspace: /home/ali/ROS/first_ros_WS

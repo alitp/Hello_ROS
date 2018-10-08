@@ -1,0 +1,8 @@
+Symlinking /home/ali/ROS/first_ros_WS/devel/./setup.sh
+Symlinking /home/ali/ROS/first_ros_WS/devel/./env.sh
+Symlinking /home/ali/ROS/first_ros_WS/devel/./setup.bash
+Symlinking /home/ali/ROS/first_ros_WS/devel/./setup.zsh
+Symlinking /home/ali/ROS/first_ros_WS/devel/./_setup_util.py
+Symlinking /home/ali/ROS/first_ros_WS/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/ali/ROS/first_ros_WS/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ali/ROS/first_ros_WS/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
