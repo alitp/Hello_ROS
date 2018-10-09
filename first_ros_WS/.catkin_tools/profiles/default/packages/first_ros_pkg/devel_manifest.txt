@@ -1,0 +1,4 @@
+hrwros/first_ros_pkg
+/home/ali/ROS/first_ros_WS/devel/.private/first_ros_pkg/lib/pkgconfig/first_ros_pkg.pc /home/ali/ROS/first_ros_WS/devel/lib/pkgconfig/first_ros_pkg.pc
+/home/ali/ROS/first_ros_WS/devel/.private/first_ros_pkg/share/first_ros_pkg/cmake/first_ros_pkgConfig.cmake /home/ali/ROS/first_ros_WS/devel/share/first_ros_pkg/cmake/first_ros_pkgConfig.cmake
+/home/ali/ROS/first_ros_WS/devel/.private/first_ros_pkg/share/first_ros_pkg/cmake/first_ros_pkgConfig-version.cmake /home/ali/ROS/first_ros_WS/devel/share/first_ros_pkg/cmake/first_ros_pkgConfig-version.cmake

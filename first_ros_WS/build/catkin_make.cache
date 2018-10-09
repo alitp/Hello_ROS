@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ali/ROS/first_ros_WS/devel -DCMAKE_INSTALL_PREFIX=/home/ali/ROS/first_ros_WS/install -G Unix Makefiles
